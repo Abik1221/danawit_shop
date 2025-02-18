@@ -1,0 +1,34 @@
+# Binaries
+*.exe
+*.out
+*.app
+*.dll
+*.dylib
+*.so
+
+# Build artifacts
+/build/
+/bin/
+/dist/
+
+# Dependency directories
+/vendor/
+
+# Go cache and build files
+*.log
+*.test
+*.prof
+*.sum
+*.mod
+*.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
