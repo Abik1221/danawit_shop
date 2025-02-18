@@ -4,6 +4,9 @@ import (
 	"log"
 	"os"
 
+	"github.com/NahomKeneni/DANAWIT_SHOP/database"
+
+	"github.com/NahomKeneni/DANAWIT_SHOP/controllers"
 	"github.com/gin-gonic/gin"
 )
 
